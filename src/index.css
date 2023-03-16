@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@300;400&family=Rampart+One&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  /* border: 1px solid red; */
+  font-family: "karla";
+}
+
+h1 {
+  font-family: "Rampart One", cursive;
+}
